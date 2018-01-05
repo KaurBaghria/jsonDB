@@ -38,5 +38,52 @@
   "user_id": 10,
   "username": "Cale",
   "password": "qBCdufQP"
+}],
+"articles":[{
+  "article_id": 1,
+  "user_id": 1,
+  "title":"A YEAR IN REVIEW",
+  "content":"As dawn broke on this year, I was excited for a fresh start. Last year, I dealt with panic attacks and anxiety from taking on too many projects, a breakup that left me heartbroken, and a mini-identity crisis from settling down."
+},{
+  "article_id": 2,
+  "user_id": 2,
+  "title":"6 (NON-MILLENNIAL) SOLO FEMALE TRAVELERS SHARE THEIR TRAVEL WISDOM",
+  "content":"Kristin Addis from Be My Travel Muse writes our regular column on solo female travel."
+},{
+  "article_id": 3,
+  "user_id": 3,
+  "title":"My trip in Thailand",
+  "content":"I went to Thailand with my friend this Summer. It is really a great trip and I would like to share my story to you.I spent one week travelling the country. Chingmai was my first stop."
+}],
+"comments":[{
+  "comment_id":1,
+  "article_id":1,
+  "user_id":2,
+  "comment":"It is interesting."
+},{
+  "comment_id":2,
+  "article_id":1,
+  "user_id":3,
+  "comment":"It sounds great."
+},{
+  "comment_id":3,
+  "article_id":2,
+  "user_id":1,
+  "comment":"I would like to join you."
+},{
+  "comment_id":4,
+  "article_id":2,
+  "user_id":3,
+  "comment":"What a good trip."
+},{
+  "comment_id":5,
+  "article_id":3,
+  "user_id":1,
+  "comment":"beautiful!!"
+},{
+  "comment_id":6,
+  "article_id":3,
+  "user_id":2,
+  "comment":"I like your post."
 }]
 }
