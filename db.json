@@ -42,18 +42,48 @@
 "articles":[{
   "article_id": 1,
   "user_id": 1,
-  "title":"A YEAR IN REVIEW",
-  "content":"As dawn broke on this year, I was excited for a fresh start. Last year, I dealt with panic attacks and anxiety from taking on too many projects, a breakup that left me heartbroken, and a mini-identity crisis from settling down."
+  "title":"Working holiday in Australia",
+  "content":"I graduted from university in 2016. As I want to know more other countries' culture and what their life like, I applied the WHV when I was in the third year in university. It was very loucky that I got this opportunity to visit another country out of my hometown. Now I have been working and travelling in Syney for almost half a year. There are a lot of things I want to share. This is a really amazing trip. I met a lot of friends here and had different experience working in different places. Sometimes it was very tired after work, but it is still very exciting for me to live here. "
 },{
   "article_id": 2,
   "user_id": 2,
-  "title":"6 (NON-MILLENNIAL) SOLO FEMALE TRAVELERS SHARE THEIR TRAVEL WISDOM",
-  "content":"Kristin Addis from Be My Travel Muse writes our regular column on solo female travel."
+  "title":"Looking for friends to join our Tibet trip",
+  "content":"Are you interested in visiting Tibet in China? If you do, please contact me as soon as possible. I am planning a trip to Tibet with my best friend, Lucy. Both of us are lovely girls who like travelling a lot. And we are looking for someone who is ethusiasm in travelling as well. We want to have more people to come with us, so that we can take care of each other better. If it sounds good to you, please send us an email about youself. Here is my email address: marymary1212@gmail.com. Hope to hear from you soon."
 },{
   "article_id": 3,
   "user_id": 3,
   "title":"My trip in Thailand",
-  "content":"I went to Thailand with my friend this Summer. It is really a great trip and I would like to share my story to you.I spent one week travelling the country. Chingmai was my first stop."
+  "content":"I went to Thailand with my friend this Summer. It is really a great trip and I would like to share my story to you.I spent one week travelling the country. Chingmai was my first stop. It is a quiet and beautiful city and people are nice, food are delicious as well. I stayed there for 2 days and walked around the city to get closer to native people. It was a really relax vacation. Then I took the minibus to pai which is a small town, 3 hours away from Chingmai. In Pai, you can rent a motobike to drive around. And Don't forget to visit the night market on weekends. You can find many interesting things there."
+},{
+	"article_id": 4,
+	"user_id": 4,
+	"title": "The 8 Best Old Towns in Europe",
+	"content": "How do you define an old town? For purposes of this post, I define an old town as a separate, distinct part of a modern city that is historical, beautiful, protected from further development, and often holding UNESCO World Heritage designation. I’ve visited dozens upon dozens of old towns across every country in Europe except Cyprus. (Man, I really need to get to Cyprus next year so my statements land with more punch!) Nearly every country has a special old town."
+},{
+	"article_id": 5,
+	"user_id": 5,
+	"title": "The Best Halloween Dogs in Hamilton Heights, Harlem",
+	"content": "I wasn’t a dog person until I moved to New York. I didn’t grow up with dogs (or any pets larger than a rodent, for that matter), and I never really knew how to interact with them. Spending time on Bali in 2011 and being cornered by barking street dogs on a nightly basis didn’t do anything to warm my heart to them, either. But something changed. Once I moved to New York, I started fawning over every dog I met. Especially neighborhood dogs.  I’m now that person who goes up to a dog and starts talking to it without acknowledging its human. And not just the tiny, fluffy ones. All the dogs."
+},{
+	"article_id": 6,
+	"user_id": 6,
+	"title":"AK Monthly Recap: October 2017",
+	"content":"October in New York is fantastic. The best month of the year. And this was actually my first time experiencing an October in New York! Last October was split between Poland, Germany, France, Luxembourg, and Australia. I think October is a fantastic month to travel, especially to Europe, but after a big Eurotrip last month it was time to sit still and spend time in one place. It was a month of Halloween goodness, exciting opportunities, and a surprising number of visits to Staten Island. It was a month of admiring the decorations throughout Harlem and enjoying far-warmer-than-usual weather. This month rocked!"
+},{
+	"article_id": 7,
+	"user_id": 7,
+	"title":"A Getaway to Tybee Island — Savannah’s Beach",
+	"content":"It’s a designation that Barcelona and Miami hold with pride; it’s something that New Orleans and Tokyo wish they had. Having beach access elevates your city several rungs on the best-place-ever index. I went and discovered a throwback island, a quirky island, an island filled with beautiful nature and colorful houses and very friendly people and the best sunrises I’ve seen in years. "
+},{
+	"article_id": 8,
+	"user_id": 8,
+	"title":"Enjoying Beach Time…in October!",
+	"content":"When I stepped off the plane, I was met by a wave of heat. For all my days in Tybee, the temperature was in the mid-eighties with high humidity — a big change from New York, where a recent cold spell had my friends doing emergency harvests to save their tomatoes."
+},{
+	"article_id": 9,
+	"user_id": 9,
+	"title":"AK Monthly Recap: September 2017",
+	"content":"I started September in Minsk, eager to visit four new European countries. I finished the month in New York, recovering after a very busy six weeks of on-and-off travel. And now I’m sitting in my apartment, totally pooped and yearning to travel like crazy while savoring all the time I have at home."
 }],
 "comments":[{
   "comment_id":1,
@@ -85,5 +115,45 @@
   "article_id":3,
   "user_id":2,
   "comment":"I like your post."
+},{
+  "comment_id":7,
+  "article_id":4,
+  "user_id":8,
+  "comment":"Your infomation is very helpful."
+},{
+  "comment_id":8,
+  "article_id":4,
+  "user_id":2,
+  "comment":"Your trip is very fantastic."
+},{
+  "comment_id":9,
+  "article_id":5,
+  "user_id":1,
+  "comment":"I want to go there one day. Can you give me your email so that I can know more about your trip?"
+},{
+  "comment_id":10,
+  "article_id":5,
+  "user_id":9,
+  "comment":"Having fun."
+},{
+  "comment_id":11,
+  "article_id":6,
+  "user_id":3,
+  "comment":"Happy trip."
+},{
+  "comment_id":12,
+  "article_id":7,
+  "user_id":6,
+  "comment":"Nice weather!"
+},{
+  "comment_id":13,
+  "article_id":8,
+  "user_id":1,
+  "comment":"How much did you spend in your trip?"
+},{
+  "comment_id":14,
+  "article_id":9,
+  "user_id":6,
+  "comment":"Good to you."
 }]
 }
